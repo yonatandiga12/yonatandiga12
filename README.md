@@ -1,6 +1,6 @@
 # Hello World, I'm Yonatan <img src="https://raw.githubusercontent.com/yonatandiga12/yonatandiga12/main/wave.gif" width="30px" height="30px" />
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://raw.githubusercontent.com/yonatandiga12/yonatandiga12/main/Heres_Johnny.gif" alt="side Image" align="right" width="250" height="auto" />
 
 
 - 🎓 Third-year software engineering student at Ben-Gurion University.
@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
      [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/yonatan-diga/) &nbsp; <a href="mailto:digayonatan@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
