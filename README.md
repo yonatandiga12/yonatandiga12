@@ -3,9 +3,9 @@
 <img src="https://raw.githubusercontent.com/yonatandiga12/yonatandiga12/main/Heres_Johnny.gif" alt="side Image" align="right" width="250" height="auto" />
 
 
-- 🎓 Third-year software engineering student at Ben-Gurion University.
+- 🎓 3rd year software engineering student at Ben-Gurion University.
 
-- 💻 I'm inviting you to take a look at my projects. :blush:
+- 💻 I invite you to take a look at my projects. :blush:
 
 - 📫 How to reach me:
 
