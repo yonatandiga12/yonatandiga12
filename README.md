@@ -1,5 +1,8 @@
 # Hello World, I'm Yonatan <img src="https://raw.githubusercontent.com/yonatandiga12/yonatandiga12/main/wave.gif" width="30px" height="30px" />
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+
 - 🎓 Third-year software engineering student at Ben-Gurion University.
 
 - 💻 I'm inviting you to take a look at my projects. :blush:
