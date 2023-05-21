@@ -9,8 +9,8 @@
 
 - 📫 How to reach me:
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-diga/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail_(digayonatan@gmail.com)-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:digayonatan@gmail.com)](mailto:digayonatan@gmail.com)
+     [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-diga/)
+     [![Gmail Badge](https://img.shields.io/badge/-Gmail_(digayonatan@gmail.com)-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:digayonatan@gmail.com)](mailto:digayonatan@gmail.com)
 
 
 <!--
