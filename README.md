@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/yonatandiga12/yonatandiga12/main/Heres_Johnny.gif" alt="side Image" align="right" width="250" height="auto" />
 
 
-- 🎓 4th year software engineering student at Ben-Gurion University.
+- 🎓 BSc in software engineering from Ben-Gurion University.
 
 - 💻 I invite you to take a look at my projects. :blush:
 
